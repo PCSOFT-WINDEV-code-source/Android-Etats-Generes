@@ -1,0 +1,102 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : Android États Générés
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : ""
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Application Android
+    internal_properties : CAAAAAgAAACqo93QI+Fus2lEWz+7y6t545SGhHsgpsmYiw16/xMgRA25NxL7LfKJ1LsfsLQpRx7kC0N2bJiUQAG3YjPeNiEZDKTTbVdlkYcUrz5SuzAtRumjDEc6rD8pr/FPRKWitWLk77Rbh+13gJQH0eSsOdFjiTomhus1aFjmo5TQpN7FRrEmOk9XFqAHZLqAaqYAsKPHkDa6VangwZmnaD1QUAkNRxXfijKb6+aNAnDLiF+PJ5a34ZQY+FAXsAMoFhW7uisUqoaOHbT+rQuECoNamVb0/p6CMUH8aDfrYdIewq0zR3LxqbnoeuhN9+1ow3nMts7PUTFQsa2xMFy2wK5n3uaf0VnYrbgRig/JXWrgfqddDgCcKeCXt+MLxx1al1UbE1q2hxzHAvunMU88eFdrIvlhtSZLUWduFyMoxFgmxY+zYaRHadfi3Qd1Xv2dozWk1G1o5aT1hyiMJkE4KJ6wMvxIXAWiV14tDoEaQguPvydEHjZcQT9qZhZ8UtHBHucVn1nLWZ07lWUdanQF6rEOcFX7GZyfBmSSnBQQalpaQ4INSvMMjFf9gX6WeJ+lcV/p+yXHVm9kV1Nk+NjWG/JwpVmGoN7v9kqJYffgEdVtY8wqjswQEGQWGkbETKgFlYHlyd5OE6yGWzgeozKXQwW2leIseZ7lKWv1zfEhqb0Mdr12Fi177oUb/wbZrW26k05gFWvl3S232xQS4ixpth58MGsv21gWs9BOt/Lgaqvgk57aFRMgxzDNd7P19J+9w9OZf3bFKg/svtgDwGugKgdENyBkdZtG+Mf5REHN+9IhOSQBx6YDgUwNe9d1weeBwOZzbpQxHJx3o9iaHUMSsUReuyiXnMRKRy054tjmXveu+kI/+lGKO7U7k5S/O8ld91dcwUBmfx+xjhkN4iaWrlp8lINXlNv12LxaZ0tjq4346tL/dUXNkwKjmDtdegOwoDpzW6ARF2NH3qPyfRyXBOR/6x3K936Pa+4x8Gr9iGLgLHaRiGVhrVMXgVce/pHbFHwxSAN8dTzAA9M9EjJNNPPwM4n1ImBcoRWOox1TduEQiyVmTVSZ/dATd/jLmzKE/oqo6NQ4K6OGWH50b28ijyqfQZJXOmRfxgeYwb+X/Gm9YhC2UE5QfHPjysuRyrjrrMMhYdTjQvQIqLiEl4SuKamtcE4IXXV1BhH3hsEDSoKOEsiQaRDUh2UDj6qP271qbwKamWvcsiCas0XZrggBUw50RfKQ0akdHJLPmyqrapkPNjhXTFBN85wspExSjiGw6/uvGwOzuYqONza9qTM41pZSxnXEn3MSmN1PhHImtSipOvod1E5EfI3NyMIBZDNybt7FlDO+4Fi6waCOeJCE41gsaEhJnzJ9EDK/uXULn0yz5yNXqDBtX8buC0qFYWGGmk68/fJRzq1JoEkq3AcsR8JKBHTuCgBBrtAgG5Js61bxfvz/XCYx7evxOJ7BB6KueSwHWGB0+W3eOk0B76P11iWlD2PbwItOA513COBWc8vkR+EUd8PUpj44AQ44X9faIbHW5UAAJY5VZtbuzAnGyjPY71TWyRZTz3qt5niY0tbaWX/nJqYKjacxhpiquIEwPbUtUd7kS3uDJeLbFV1OU/osZ8RWQQi25ZHTU1N3/wlJhuzxAtmatIiw4+QjJ8aUEbaxo7zvBYrNBpB6ooP66WeGHAR6r6ggSPLPn1EPxsiPa1Fm2QTOIDyAH++xxaCy5CgSFahAoAyUkEkZSgVFgDvc1JM2LCOr7celABi/VmkvFuagiK0r5Fio6EjEl2W0MZ/KTtGxnt2NpASBbFOpfsikbT6bIyHm1rP+rLE0ydUsCaAQ+nOG0OrrLWYWFL1lmS8JTKqi9OXoMYGAaX3ZRNS095h8os3mDT5IA4Pjc/8aLHP6en4FE/BBX50RF02rwERQHVdud0ZVJhJt2irgNLE178vGdvEsWn/D/i/jWRiAACwqGvswJbK4XjvQjKo/lvrtj0lWYxjYgbKE5gZqaEYb+Om3C09YzXsFvc97gZ/h+SpUaj/lINe/C0Eo/guHTGJhepmgf7aqUMRywEgvVMeYxc1g/cIpL3fX+n164yGYpvr6sF2GpSmhZtLzhUrkttjfw60iFMXMuM2mRuQzGcjSSyXh8POH37MTaJHmp2oXsrecy89evLEcN4p75IeRIT1wP9N+2JFxKnBuju6kMk3iPpZ+gzewTPfJ/s3BM5Do4bqZmgYpmXnfH92FKTUUa/BRj8RuVqZzMTa6c/d6u3cLmsMeP1BLCdpzattl8y/mIC5uJrgdGyYRsETqRVDJwj7ucGIfAX0E8bSWQGrjW8M4QMxVt0Qi+ax5YGJPbvmZZcCqt91vOvJ47f5nLUuTG9LAbE4eShqJUAVAaQbEOsEMR1Gpx7lAfO4GianicYM6WtBIjfwaWcyx1MGIabyF5fyFNo+l0rbcaxrjyPp/jHU1AhBFJflFDZYOLrrki7PEuNlo9Q0/Ev93BCp6mHLB9Hf0sdELzT8PDjmP3cGb3lHmzA3d5OmqNxBRhaNu3QY/n9vz+RRflAj0KZAyKOpaWmObvP3D1XnvdLrClkM7I2X6ejHA95JVXgz4prKxP8k55Bb6kOs4xe/IS0QmokmzkSfVbkJrC0fUKBSyTA2XNmvxzLDgJ1HkkJZy8E647bchAcX5Wdt926EQdolQddwS3QyGNymtcfUMahrbfJXAt0ldsHCAOcm7T4EgmLPyB+n7ScmMrzzNCTWMz4x9s02Qmur2gV3CWqk3JTfjSkVilPJ8PrF1CSEjOTT+jyu8MDpKY/dMmIDpl1yRs+JvPrpuQS6GNokjNe95j12XOaAf1pLfV3LAAyrOFs1EsydqplDFYEAdSDszU11RU0v/Ji5zw/1/+qzLuWot3xpBc8vpYSe+dTsjCDwyuwd9pMz2od+U+WsIPWN3rX0uvrEaP+EaapqT4dJ3hY05hFrbRwQzeDRO7RxzyIw4jVhbKiQZpSkzo0UxzYRuUjJFF8q0L84JEkJHFbklyjjcpGDJhYpwxPF4/Z7IWjg86mxYRGQfpxuN67kjC5rd5NPP6BA5bBkUaDTxdA5xsSYu1WVOuftaRHH/gyAES5nKbNW/sQOCkiiV0fRKLvPaM1LkrEzAY0DLQWDjYO2CPkoOQgzEvnyojpsmBhc4O4WND0vAyzn0+CBHBbj5pZtR480Ru/TusQ9G1u/pamtqyFRSelSEpYW3Y/x8EJpHgqLf38Ve/8ijgxhU+PMK5MdccnENv3DI94PPpTPXtI/7uRIZHW+wWl9t9O5UGAZUKXaY3P8YEx+j2W1VsWmIrit2DFB2NmqVBK1FJ72Q1cXaSrsYgM73iwKTjYm1v2yFJlKKDsax0oxgogXV4SUAjgtGvGRC5KZKWcGPHYTM6QgZS1cMvGo/I5P/C4upO3r6ZYxMILZgK45Tn82knBb30youUgQCisBvEtwOJgB8iQOxfccheStcduB/20v3FTNHGEHYVFOOhRXg9oy/1VWe6axtfangLG2AfysFxx8hij4GQmV9ezwc4mn6BlxkIJavLjJtlzBCgcdUKDoP9WBoAnOuZnZ/ldAQV2iT0X6REp5ha6wZFUDtUQoLc/N6eko2ccAAlLlF/jEc0Gnfh0Ya7EfWmM2BgzUmVT8MtFAgWVDcoG5t5wiWmKr0XvocmN9d8BMNp6+6+yJcEjOqpBtRlZWhoY4uMm5umeGbnX4EgULdDeg+9ND8uiKbg1p0pOhAK+iYxO0p0oQ8Xsegxj5JYT4ICBSjqRoQhw/imrTON72QtsUvRxfK+GQZKTVSEjzdvgNU2CChBqjhaQYXPfem+Hn7czoQfDPiYSGtM8SBvthWSjgaOowh7WvE4H38sNyOT0saGhkiy1pOKINBgTxvL0pioksVE0I9cGPZW/Y+nybqVNXIJsHMRjbdEZ7KWrQuF53hTwCKVxvqeg97UUVepHzAsGhvteqL2sb9B19ByqEw2KyyotYS7LjKRiiraTzArQtXjcZIU1QAZBlCrmmJkezj/zl5Uw3CLZQmYnpaZ6ByUFXpE4bhIQOASm1dZ6sjEFyJ1zc1KBM12ZM12wt5SQH0aHR8+CxX7gLgsD7OJyKwkjisdgfZEYimLvyXaUq3tpw8xB3JRtpSPjfBMSsICil8Onmq/nKtbLtCChL1es5wDNiBl598atV+XwZYPMAn5C0EOlzWOVmxc4x5QzsQVvkOYjQv3RnDZZWeg2OZYiuHqMcVL31CoFt0mB21PG64KzTGI4hyJzAskYd/nEDY9gj3n4TvxYeTjmPHLfHz6ERUDVqQj20baOEe3RJQ+To5f0eX6qqmUsrum5SArtDfz3uQMfU5q5Osygf2NkUVZbaAC9x4h01mXU/p0G0CrjD1zMvYYCpG0dNJDefS5iZZGbn65vvyhrjd3Ngb7ojvXBV96dxfsmVYXx5IjqrIqfaSxR2x+4mxd4Vm+h/XMaNskyzoDtYQvLFn2jDsAFUsqVQBVZVD+fMjcyo3M/cc0LY1kmNMvFMTCOkEeqq/Gwxp+RTH7z6uFsjDTr9eJryDWFGdJb7Q9tfibNRxkdbV7LKCP+kECNLpxDTZ//UdNPNRyRLGO/vzlYDz1q1TCVu0GevWSCbI2MG4x/szDa7vollgfXGsvW9sG7k1LdFtpCMrQ9JjMf4IRIKqtEEXcldZEZR83KklrxXOaLh5SecfFQOOFcw5pwQxJF7QgopEstIeFLZNPSEfRTiarSFlbC4twlvCPopLv5epPfal77i6rgdtHCy4oFNr7phAxDkyaqp1RTwGtjatN3eL1iMXSp9tjmRoEehmhENwl7IP3OGWPgHgHcHkINfnWJpTClVzetuIGZ13aXYB0D+iRJnwGe9Ges/vPm9QtTLkKpoPWtxr+dI5sQKZkJrSOM/GHzZYCISIcjr4vW8bJp2xRN78VXV3Ww1K4lQA4mjT08IVxdMqqsKw8588wEart5YTQfpGePwqGBGCSxR1tOx4yoAUzOviNmfqxLXvEOaajPJZiSj7NmZqpg6XqU9rfLcq53mA70pwL806eXMC19TdgLg=
+    configuration_id : 6958812518340465417
+    type : 15
+    version : {}
+    language : 1
+ elements :
+  identifier : 0x4bf28ad700029977
+  elements :
+   -
+     name : ETAT_Produit
+     identifier : 0x4bf40c270277bf27
+     internal_properties : CAAAAAgAAAAVcX2hHnszbIKt1chSIoelhfDsPBAqHAy2kXrCC+S2Ur4iB0g4gkWvT/74wECwSLgAAA==
+     physical_name : .\ETAT_Produit.wde
+     type : 3
+     configurations :
+      -
+        configuration_id : 6958812518340465417
+        excluded : true
+   -
+     name : FEN_Etats_Générés
+     identifier : 0x4bf28e08026a0f1a
+     internal_properties : CAAAAAgAAABxzan9Snc/cIb//1EiNfWKsYLs3Ar0SBhKrAt5NBtzZVuxT7C/e91JIwL8xEyEfGxU3A==
+     physical_name : .\FEN_Etats_Générés.wdw
+     type : 2
+  other_elements :
+   -
+     physical_name : .\Exe\Produit.FIC
+     configurations :
+      -
+        internal_properties : CAAAAAgAAADOAcMIxqq1KnKXSFNJr0uKFFjCpmFzBX7T4clpm8xTxMO3fR0p
+        configuration_id : 6958812518340465417
+   -
+     physical_name : .\Exe\Produit.ndx
+     configurations :
+      -
+        internal_properties : CAAAAAgAAADOAcMIxqq1KnKXSFNJr0uKFFjCpmFzBX7T4clpm8xTxMO3fR0p
+        configuration_id : 6958812518340465417
+   -
+     physical_name : .\Exe\Produit.mmo
+     configurations :
+      -
+        internal_properties : CAAAAAgAAADOAcMIxqq1KnKXSFNJr0uKFFjCpmFzBX7T4clpm8xTxMO3fR0p
+        configuration_id : 6958812518340465417
+   -
+     physical_name : .\Gabarits\WM\240 Material Design Blue 2\Material Design Blue 2_Logo.png
+     configurations :
+      -
+        internal_properties : CAAAAAgAAABXAdPILp6HqWWiNgiDyzk/1KgPR6ktkoMMCHcjMGOf
+        configuration_id : 6958812518340465417
+  analysis : .\Android États Générés.ana\Android États Générés.wda
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ report_and_queries_enabled : false
+ data_directory : <RepExeOuRepDonneesCommun>
+ common_generation_directory : true
+ languages :
+  - fr-FR
+ code_elements :
+  internal_properties : CAAAAAgAAAAySygPcZ4GJX0P6OaZtGImf6VeIpQpJLYsyy6IpEyeB4oR6+2AWanMnxYyL8kUO6ZLoCf7gRyLXo4A3BCx9g==
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Application Android
+     identifier : 0x4bf28ad700039986
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==

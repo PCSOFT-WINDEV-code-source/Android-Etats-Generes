@@ -1,0 +1,256 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : FEN_Etats_Générés
+ major_version : 28
+ minor_version : 0
+ type : 2
+ description : ""
+ subtype : 0
+window :
+ name : FEN_Etats_Générés
+ identifier : 0x2bf28e0510f10323
+ internal_properties : CAAAAAgAAAC0wUvElU/1VG+eJ4wyhtOV6NOA0VqhnKn7cMMdvyz+34VeEtA5zmR22TEs6Kh1kOE67D1LZ4RjsJ5Lb9vtD905qgst90UU3SwPmAdZiZ+wQjS3UZBa0YIRIVMtSK6x95TnIQJEbatoHC7Nm1smvhXS+7oth6cw0xNJLTVGRoXo7YsUeicGtW2bS0JI5Q3PGu7awZd5z8V0NeAwUBUj3J0/JNjU+cJJIva2tRXwwKfThjr4++CP3wAGYQyhJ4w4vF/m4Y5bmnbw1I2gKeOkTytwKe9ha3XZ3GatXksrmKgedCXkISgOF/k47iu7WX5iUwd+IL4dyAjg8FMObvya+AmVKZcxtIb1f1KUxDwQW4BiekKEbOWgVxXKBnB3Ms7qp9H4Vq47TsE0gnaPAegJ2oTDAcRIqa9gS8LdqWcEPNQiSjZ9yUFg3cOZR6ymcLPg8UNlbwCtAUc6QgXcp+txLD81whkLzCud7V6dcHvjvqy/BGnxYfK4HfVQe7O+ryqY1Qnls4qK7k282wOtp1KsZ/DU/Jw38B1wIuLddGaZNC4bhGxX1w8StRT8/rG7HwezThZa3V0wXxc5Jj1pGU+DyGE8ey2voomR10aMeQoRsDL5qF3xEwYZDmO27QV84XUkv710Pu7cuTjrwjFO4DnGs574z/4NY16WVp+Rqs97RfdsyNRCWtuENg77ji4BkegDHgoxkTxlwKpaqhF5vA/9ZcsD8Xm3cb26orBw90L480ntoehDb35XpFqbXDmpsJl3eu/yJycRA+Z5OnaVrQ==
+ properties :
+  width : 320
+  height : 407
+  heightMin : 480
+ controls :
+  -
+    name : DISP_SansNom1
+    identifier : 0x2bf3c54d1188fa9d
+    internal_properties : CAAAAAgAAABVr+cIhrROgQg84sA5vswKs2ah1o/hzDWtHqX1MlUzxIK5wPJNt3ZTlrXlaHNIeqJXBrLOLp2/G6crz50a8quaSUB+Xtbx/FGM5wsmD+KHk8lSVet62Pua1kKWCw6AwdehWPG/P3vyLD831S2XsTI0i7yzENPd6sy5UYOOGs4Wm8TOj/4gGi5g4Szj/Est8ZW3007qOWm2hvULGzmvlwWRuOCNqKx4yLVhaU79m4ZgazSksWyfPDiOgR0f4nTo7g6Wkb8idCG8WqQwp4HrZqbhXu601T9qH15rmU36K7W9FIajgE6iemkN9HswAdSaFuKk4oXpvUFx8Vid4G47wZHvanDRbcw26UnhOq5DxDt5ShXKVnIFVEXFGR/BTlWdSZDmh8GwNLZKBHwRECyCQ7gqevvvMpls54gythus0I64HfyMEyj3qv7HZJ6XZDHJ5Q5QqyJNey8QIT5ODiyl7jRadqGU11uTz37GbqVCvTYOXPt1BC/hQGeaClHNme9/gIhty8zpxbk3QH231kGSQfBrIx492pvxRg==
+    properties :
+     y : -1
+     width : 320
+     height : 382
+    cells :
+     -
+       internal_properties : CAAAAAgAAABGFf4r3NtT/NzTe+80NaPIlgfS8FlU4lnKo/7aA3Kd0Wv9VU7FBYT9uFpN6IETdk10bBj0CzswC9wILv3vIO05sJBUzeStbHcSXpKAFnPDbojJzePlOg5ED9bYW2iyabxmPctjAF68BuhcFJsdfNdAWjfmkWyPHkeKQOL2TRzgsWlLww==
+       controls :
+        -
+          name : LIB_SansNom1
+          identifier : 0x2bf28e0e1125287e
+          internal_properties : CAAAAAgAAACyg21szPwZ63mGjIeYO1/Izc32s7u6aPN7O/kmK1/sAFucHLFFD0xVASFxq7Ays5mv9aQnzeih7H5fH9pFLDjk8LQH9/7F6+fgb4zwZfmzegy5zwsHnSH2ehPxKn/wMAvCHVVS+QGVa9wETU05wqmYxXqtSseHW2BLGgC8Osue0NtsB/k88D3f8JUbC0JxjsYijz/+rbFWWWNhKk1Rqd2QMuOzHQ9RwGMR2oGvZ+ovp/lIrVf1gzSJDIcD8BGvN313LHyjfZJ3VkBY7dv7OblxV4Gnqd/iiaH73nS8kw2JMkaPN7ILfjhmsqUB2R1thiIfCmb59kepRbUYnYOxLOb7qzayyV1//6QG82bb+sxY5lrM5wK8tkiGi+krYy5vbGFBm4Y2FxnNko8BIZmPGwL+F0kDtsp0PfKPUL76AdQqmU2Mi+BwIRYNhYvl1wgI+5+3xUzow8Lou7z+wTGCi01YiKgyyrvtpnnI9BNyODxqQActyhNe+/S1kF2RL69Oa6UsVpvHzd1oAYq/wLXwIMVa67UZfCtpz8n3+mTkAWjrU26ztAaYaBnF5JAmCuaQQfZ3l7wBJ2slbBO8E8g46EfyWGS2m+hl6UAwROSH5WJvlDO6kl+8qxYGhYptZ4x8png5sxaD/0H+t88VkYHteQZAQMdkEf/4YdEl+9vObX4Lmni3bHRPTu0yatsvGMY2sUc4Tmg/7QtbvwmHRGwZo+craFqTmiDjFAqIvHUMh/1Cmsax+LEea96+MZG5lnnETXHLNuGdr+9q3NVnGBqvmv+9dwAYfD3EEHIrKzIOdPro3Uzs+vEDRgDaNkbh1ejT8ZxqmH5BAsqrlxuwunTk/Rb6CqMk48MTGLVw2A==
+          properties :
+           x : 16
+           y : 7
+           width : 288
+           height : 282
+          type : 3
+          code_elements :
+           type_code : 2
+           p_codes : []
+     -
+       internal_properties : CAAAAAgAAACGRS35TP0qrJyBmqG2N+C0gD/kiALc1uNWZXAcfrgz6Js2dxBoZt6ASN+FoUjW2pEmWYCYbe72quO2SxFacF5nM2DdasJKWrEKqa3rDqDjSdJtYjr1RajK90tn7FDPR1l6w1zY9HFqmFQ97yS/rwtHqDP7psxYRlKTxiSrYb2HT3rod3A=
+       controls :
+        -
+          name : BTN_Génération
+          identifier : 0x2bf2f0351171900a
+          internal_properties : CAAAAAgAAACF39oT92ScVwty01CUID/0FtbDKPsietIlbRD4srZZuUM0OODY7SqtbxyBGS+SBQ4JtPXHlcCnjxcalwSw6nUzttpoajDiBDPg5s3UWI5dNoPQbPeMYkOQTXpy1dx6sEdpcVe1npe++vuodyznXQfEHE5mVo1EZGn2ZLFuV3jJ2R6R6s/JzMKiuumPZJdHzNJGz6YcK0g4Ha9143z4JW2hUq3fTI70tMpVtFgnpiZAcDyItbP5yoM0oZXhmp7jnEmD2It/m6oBtcv4MXbwG2xazrml1FR3BCqaMcZc7xD4u9vXsjln4qHBzsNgD4UkG6ZqmFZ9A9LNTDaYLIYswJGkA0MEEq4sbfPnHivFC0n+kQGwyIY+bL65hxB1+FkGWPJKyuy+CR71o5h77lhclWbB6go6qBHXiFh03NZA+Nzr1q/SUuNkRTJb7JAWnTym2Ic4KFXesWbK9l11/UNalbNngMVWsG+8ER7KfJkjssCIrdfmCX6rJBXZrIQD5L4yx+mNEhYLybs6sRdhbvcQaQK8KeMhx9jUiy61CG8091JMdPKB/ZxwSePYGAtZGFWv9a6wdzmWiUQ9J0n7gDm7tSbGxYzqAVWK+QEpDyE+oEMBZ5HFPCoZ95KgYS0eFoaL99L08C9+fkeMsk4dxtC6Ir71JeJRDBpILkmlFuv+f9//9UtPNysQnjiYrsREtxgaKUQYruk6ONQarHCiIXbXcYr0nGnmG/kzRj8Uxo46feMAnZZqETseLyqBSoxsy68Y98R6RVda7iF+RfZEZYaJCeg2cXQCatV+zUd8YfjBbMZALC1p9SMeU3yAN0z8SZv3a3Y1FKqrcHZZqXWNpx7teEJ5CS8xPHoetvBXyJ/fiOprMkMddRnqxvSDm94Jg4rceHpGinhFTr3Qau4fCLS/pTyJ2haCYC7Lr1NQrJ8QoEPE8RwR/BUy+RbbOz5ttmd2h/z6DBrr6aepe9FOX/1YvDaQ8mD2WKyjDFpS+Hki
+          properties :
+           x : 48
+           y : 15
+           width : 224
+           height : 48
+          type : 4
+          code_elements :
+           type_code : 4
+           p_codes :
+            -
+              internal_properties : CAAAAAgAAABI27hBsONA3maI+bYPpCwZmMEDuJnCl5am5WKJcmea4KUd7u0m2AHgeIHihTSPnSWf4spJ4rypHpKb1jpAJXGg9ZmeRu5JR4Y6ZpIGhF++eH80KZH2FIOlNWqbrHHTn1pP67om+CrJIxF8glKVs9Mq3pLYDWzvak5LiIGyqVM29CWznS8Jl2PnKg2RqF5SuqnH8pTe0qNl7eG3nxfyoAM9jMSM3RwRElwt4FRP
+              code : |1+
+               
+               	//Déclaration des polices
+               	PROCEDURE INTERNE iDéclarePolices()
+               	iCréePolice(1,18,iGras,"Trebuchet MS",RVB(32,33,36))
+               	iCréePolice(2,13,iGras,"Trebuchet MS",RVB(32,33,36))
+               	iCréePolice(3,9,iNormal,"Trebuchet MS",RVB(32,33,36))
+               	iCréePolice(4,8,iNormal,"Arial",RVB(48,48,48))
+               	FIN
+               
+               	//Impression du bloc DEBUT_DOCUMENT
+               	PROCEDURE INTERNE iImprime_DEBUT_DOCUMENT()
+               	X0,Y0 sont réel = (iPosX(), iPosY())
+               	//Impression du champ TITREDOC
+               	iPosX(X0 + 64.573000);iPosY(Y0 + 0.000000)
+               	iPolice(1)
+               	iImprimeZone("Produits",iPosX()+1.000000,iPosY()+1.000000,iPosX()+39.854000,iPosY()+8.701000,iCentreH+iCentreV)
+               	//Impression du champ DATESYS
+               	iPosX(X0 + 132.224000);iPosY(Y0 + 0.000000)
+               	iImprimeZone(DateVersChaîne(DateSys(), "JJ/MM/AAAA"),iPosX(),iPosY()+1.000000,iPosX()+36.815000,iPosY()+8.701000,iDroite+iCentreV)
+               	//Impression du champ IMG_Logo
+               	iPosX(X0 + 0.000000);iPosY(Y0 + 0.000000)
+               	iImprimeImage("Material Design Blue 2_Logo.png", iPosX(),iPosY(),iPosX()+34.769000,iPosY()+20.217000,iAffichageNormal)
+               	iPosX(X0);iPosY(Y0)
+               	FIN
+               
+               	//Impression du bloc HAUT_DE_PAGE
+               	PROCEDURE INTERNE iImprime_HAUT_DE_PAGE()
+               	X0,Y0 sont réel = (iPosX(), iPosY())
+               	//Impression du champ TITREPAGE
+               	iPosX(X0 + 4.057000);iPosY(Y0 + 2.999000)
+               	iPolice(2)
+               	iImprimeZone("Produits",iPosX()+1.000000,iPosY()+1.000000,iPosX()+29.800000,iPosY()+6.232000,iGauche+iCentreV)
+               	iPosX(X0);iPosY(Y0)
+               	FIN
+               
+               	//Impression du bloc CORPS
+               	PROCEDURE INTERNE iImprime_CORPS()
+               		pour TOUT Produit 
+               		X0,Y0 sont réel = (iPosX(), iPosY())
+               		//Impression du champ LIB_Nom1
+               		iPosX(X0 + 27.693000);iPosY(Y0 + 6.000000)
+               		iPolice(3)
+               		iImprimeZone(produit.nom,iPosX()+1.000000,iPosY()+1.000000,iPosX()+141.278000,iPosY()+4.997000,iGauche+iCentreV)
+               		//Impression du champ LIB_Description1
+               		iPosX(X0 + 27.693000);iPosY(Y0 + 13.112000)
+               		iPolice(3)
+               		iImprimeZone(Produit.Description,iPosX()+1.000000,iPosY()+1.000000,iPosX()+141.278000,iPosY()+4.998000,iGauche+iCentreV)
+               		//Impression du champ LIB_Prix1
+               		iPosX(X0 + 144.200000);iPosY(Y0 + 19.170000)
+               		iPolice(3)
+               		iImprimeZone(NumériqueVersChaîne(Produit.prix, ",2f") + "€",iPosX(),iPosY()+1.000000,iPosX()+24.800000,iPosY()+5.085000,iDroite+iCentreV)
+               		//Impression du champ IMG_Photo
+               		iPosX(X0 + 0.000000);iPosY(Y0 + 6.000000)
+               		iImprimeImage(Produit.photo, iPosX(),iPosY(),iPosX()+23.000000,iPosY()+20.000000,iAffichageHomoCentré)
+               		//Impression du champ LIB_Quantité
+               		iPosX(X0 + 27.693000);iPosY(Y0 + 19.170000)
+               		iPolice(3)
+               		iImprimeZone("Quantité :",iPosX()+1.000000,iPosY()+1.000000,iPosX()+21.000000,iPosY()+5.085000,iGauche+iCentreV)
+               		//Impression du champ LIB_Quantité1
+               		iPosX(X0 + 50.693000);iPosY(Y0 + 19.170000)
+               		iPolice(3)
+               		iImprimeZone(Produit.Quantité,iPosX()+1.000000,iPosY()+1.000000,iPosX()+24.800000,iPosY()+5.085000,iGauche+iCentreV)
+               		//Impression du champ LIB_Code_Barres1
+               		iPosX(X0 + 110.528000);iPosY(Y0 + 5.997000)
+               		iPolice(3)
+               		iImprimeZone("Code-barres : " + Produit.Code_Barres,iPosX(),iPosY()+1.000000,iPosX()+58.511000,iPosY()+4.998000,iDroite+iCentreV)
+               		iPosX(X0);iPosY(Y0)
+               		
+               		iPosX(X0);iPosY(Y0 + 25)
+               		FIN
+               	
+               	FIN
+               
+               	//Impression du bloc FIN_DOCUMENT
+               	PROCEDURE INTERNE iImprime_FIN_DOCUMENT()
+               	X0,Y0 sont réel = (iPosX(), iPosY())
+               	//Impression du champ PoweredWx
+               	iPosX(X0 + 110.440000);iPosY(Y0 + 0.000000)
+               	iPolice(4)
+               	iImprimeZone("Développé avec WINDEV Mobile",iPosX(),iPosY()+1.000000,iPosX()+58.422000,iPosY()+4.556000,iDroite+iCentreV)
+               	iPosX(X0);iPosY(Y0)
+               	FIN
+               
+               
+               //Impression
+               sPDF est une chaîne
+               SI SysEtatStockageExterne(1) = sseDisponible ALORS
+               	sPDF = SysRepStockageExterne(1, sseAppDocument)
+               SINON
+               	sPDF = fRepEnCours()
+               FIN
+               sPDF += [fSep] + "ETAT_Produit.pdf"
+               iDestination(iPDFGénérique, sPDF)
+               
+               iParamètre(iFormatPapier,iFormatPapier_A4)
+               iParamètre(iOrientation,iOrientation_Portrait)
+               iDéclarePolices()
+               //Positionnement sur les marges
+               iPosX(20.000000);iPosY(20.000000)
+               iImprime_DEBUT_DOCUMENT()
+               iPosY(iPosY() + 20.217000)
+               iImprime_HAUT_DE_PAGE()
+               iPosY(iPosY() + 12.170000)
+               iImprime_CORPS()
+               iPosY(iPosY() + 52.424000)
+               iImprime_FIN_DOCUMENT()
+               iPosY(iPosY() + 7.085000)
+               
+               iFinImprime()
+               LanceAppliAssociée(sPDF)
+              type : 18
+            -
+              type : 161
+              enabled : false
+    type : 126
+    controls : []
+    code_elements :
+     type_code : 151
+     p_codes : []
+ actionbar :
+  name : ACTB_ActionBar
+  identifier : 0x2bf28e0510f20323
+  internal_properties : CAAAAAgAAACp9aI6pQ33TEPhq3LDo/JWqVdITT6z4tDREEHFJOIeUdyHHFzSilOM0XV85yAIF4vaEjDe0KCojx7dBEgLU16V38maUKu3d6fw2tMuH81mWu0FMwBTWS6zdWM5jxSMhsKH751zG0z077u/xF5tJ35ijffeJwLeYtQjgrd5pQKepfPEJFmzXOREvP3DSOmGYDc/q/mEnjM1un1oCYNxmBVEyNelDBXENOh24HeDkVcNwGaGj6zYfUXJ3mTmXIk3nz+O4/C4OpXm0cDlPghAkvPSqiSMz47FHsxYEGiUEHJsbVI5BH11pFi8lqyn0rmKz+6xwomRlhRy5clSB43BGVHEhq6vg91vrt3Gv6jRv6RJ0MdWHxXoI7/KALtgCoTsT3GFudkR4eV5HfihdNAw
+  controls : []
+  code_elements :
+   type_code : 125
+   p_codes :
+    -
+      type : 229
+      enabled : false
+    -
+      type : 239
+      enabled : false
+    -
+      type : 240
+      enabled : false
+ menu :
+  name : _Menu
+  identifier : 0x29f8144500a4e5ba
+  internal_properties : CAAAAAgAAAByVTsSr3/syDi1St8xf8fgHxdhV816G1q5zyODGkOm1npuSkYo5g/jXWoWFFK2H3oUBZtHLsT5rfRCnVFNNS0taWG501M84VhyiY2gqfWqbb5TaLNBc7/5X5PbRqVlZ5a3p7SznWjoHPbzt8FGrVw2pkxQ2AMTSCoEquPAoSRRZmCgf0llwPSIdkz+fkQsa3yCb/aARC1IuAmTNbEAkdknQHeBdhsRIWlMefD05RVbqvlMGzysSB4KUPZWTHHaQPB4ObHU/5KQ/VjN8jyQaoRgKuGxrJ5V23KTuMr/Zw==
+  options : []
+ languages :
+  - fr-FR
+ popup_menus : []
+ message_bar :
+  internal_properties : CAAAAAgAAABKff4sxysR+9kg8GIJ708iDvb5GJxqytSUKL54fomJ9xlu42EWUFv/+en+BSQDmdB2krqVslwL/1eyQDVw8sffQk7lF3aDfZNzV/+zROsnKAy1jaSejRR5UgML
+ code_elements :
+  type_code : 1
+  p_codes :
+   -
+     code : |1+
+      PROCEDURE MaFenêtre()
+   -
+     code : |1+
+      
+      
+     type : 34
+   -
+     code : |1+
+      
+      
+     type : 234
+   -
+     code : |1+
+      
+      
+     type : 165
+   -
+     code : |1+
+      
+      
+     type : 177
+   -
+     type : 180
+     enabled : false
+   -
+     type : 230
+     enabled : false
+   -
+     code : |1+
+      
+      
+     type : 2
+ code_parameters :
+  internal_properties : CAAAAAgAAAB6ragasMBWLfpsSyU19J6lAvYEqFWd1xYOjmHr1XHVZOVmechqLo1vKvfoAJhHeXL59P8BudVQfrBZ/U9vpjDz5RFibMKKm/84EA==
+  original_name : _11
+resources :
+ string_res :
+  identifier : 0x1fbd44b300508692
+  internal_properties : CAAAAAgAAACyXVFaObH4lOGSEHJoZf1MD49w+XTw2LScZCP/urkWFwy+HYJdyQ3umA==
+custom_note :
+ internal_properties : CAAAAAgAAAC68/W0/adbG0nFCRhrE42B5HRnbDzVHaz86sSQyxlBk7I=
+rad :
+ internal_properties : CAAAAAgAAABoAN7PLpwJW3EiA7WVZdCA5EwrCA1rvutcDHooMWKe
